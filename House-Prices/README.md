@@ -1,2 +1,2 @@
-# Titanic - Machine Learning from Disaster
-Предсказание выживаемости пассажиров Титаника
+# House Prices - Advanced Regression Techniques
+Предсказание стоимости домов
